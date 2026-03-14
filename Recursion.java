@@ -1,6 +1,5 @@
 /**
- * Jaidan Dovala
- * CSC205
+
  * Oct 17,21
  * Recursion
  * Methods for recursion main
